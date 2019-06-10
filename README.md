@@ -1,26 +1,4 @@
-1
-# An ACME Shell script: acme.sh [![Build Status](https://travis-ci.org/Neilpang/acme.sh.svg?branch=master)](https://travis-ci.org/Neilpang/acme.sh)
-
-[![Join the chat at https://gitter.im/acme-sh/Lobby](https://badges.gitter.im/acme-sh/Lobby.svg)](https://gitter.im/acme-sh/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-- An ACME protocol client written purely in Shell (Unix shell) language.
-- Full ACME protocol implementation.
-- Support ACME v1 and ACME v2
-- Support ACME v2 wildcard certs
-- Simple, powerful and very easy to use. You only need 3 minutes to learn it.
-- Bash, dash and sh compatible.
-- Simplest shell script for Let's Encrypt free certificate client.
-- Purely written in Shell with no dependencies on python or the official Let's Encrypt client.
-- Just one script to issue, renew and install your certificates automatically.
-- DOES NOT require `root/sudoer` access.
-- Docker friendly
-- IPv6 support
-
-It's probably the `easiest & smartest` shell script to automatically issue & renew the free certificates from Let's Encrypt.
-
-Wiki: https://github.com/Neilpang/acme.sh/wiki
-
-For Docker Fans: [acme.sh :two_hearts: Docker ](https://github.com/Neilpang/acme.sh/wiki/Run-acme.sh-in-docker)
-
+iiiiii
 Twitter: [@neilpangxa](https://twitter.com/neilpangxa)
 
 
